@@ -2,6 +2,7 @@
 layout: page
 permalink: projects/KrazyCooking/
 ---
+[back](/projects/)
 ## Krazy Cooking
 **Date Completed:** March 2023  
 **Github Link:** [https://github.com/MustafaMuhammad2000/KrazyCooking](https://github.com/MustafaMuhammad2000/KrazyCooking)  

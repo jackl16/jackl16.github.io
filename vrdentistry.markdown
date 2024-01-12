@@ -2,6 +2,7 @@
 layout: page
 permalink: projects/VRDentistry/
 ---
+[back](/projects/)
 ## VRDentistry
 **Date Completed:** December 2023  
 **Github Link:** [https://github.com/jackl16/VRDentistry](https://github.com/jackl16/VRDentistry)  
