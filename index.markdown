@@ -12,7 +12,13 @@ Hello, I am a Software Engineering Student at the University of Calgary. You can
 [Projects](/projects/)
 
 
-# Newest Project:
-[Date]
-[Image]
-[Description]
+# Skills
+
+|Languages:|C, C++, Java, Python, React.js, Node.js, Javascript, SQL, HTML, CSS|
+
+# Latest Project:
+#### MediData
+November 2023  
+[Github Link](https://github.com/SYS-NG/MediData/)  
+![](/assets/MediData.png)  
+This project was developed for the ChainShift Hackathon, and is deployed on the Internet Computer blockchain. This project was carried out in a group of 3 where I specifically developed the frontend, using JavaScript. This project won first place under the Smart Contracts stream. You can find more details in the README.md file in the github repository.

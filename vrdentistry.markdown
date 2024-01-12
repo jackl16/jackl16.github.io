@@ -5,7 +5,7 @@ permalink: projects/VRDentistry/
 ## VRDentistry
 **Date Completed:** December 2023  
 **Github Link:** [https://github.com/jackl16/VRDentistry](https://github.com/jackl16/VRDentistry)  
-**Course:** Intro to Virtual Reality  
+**Course:** ENSF 545 - Intro to Virtual Reality  
 **Languages and Software:** C#, Unity
 
 ### Project Description:
