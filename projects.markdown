@@ -10,6 +10,7 @@ You can see some of the projects I have created below, sorted by personal and sc
 
 | Date    | Language/Software used|Project Desc./Link|
 | -------- | ------- |-------|-----|
+| January 2024  |  Python|[GPA Calculator](/projects/GPACalculator/)|
 | November 2023  |  JavaScript, HTML, CSS, Motoko|[MediData](/projects/MediData/)|
 
 
