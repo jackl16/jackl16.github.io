@@ -16,7 +16,7 @@ Hello, I am a Software Engineering Student at the University of Calgary. You can
 
 |Languages:|C, C++, Java, Python, React.js, Node.js, Javascript, SQL, HTML, CSS|
 
-# Latest Project:
+# Featured Project:
 #### MediData
 November 2023  
 [Github Link](https://github.com/SYS-NG/MediData/)  
